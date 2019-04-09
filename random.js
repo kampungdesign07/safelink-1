@@ -25,7 +25,7 @@ if(x=="1"){xxx="/2019/03/6-erp-selection-criteria.html"}
 if(x=="2"){xxx="/2019/03/5-benefits-of-erp-software-for.html"}
 if(x=="3"){xxx="/2019/03/5-ways-erp-system-can-improve-customer.html"}
 if(x=="4"){xxx="/2019/03/5-common-erp-implementation-error-and.html"}
-if(x=="5"){xxx="/2019/03/tips-care-for-developing-erp-business.html"}a_to_ve[i].href="http://www.bellere.xyz"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/2019/03/tips-care-for-developing-erp-business.html"}a_to_ve[i].href="https://www.bellere.xyz"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
